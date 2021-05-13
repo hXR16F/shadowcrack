@@ -4,7 +4,7 @@
 	<br>
  	<i>Simple Unix (shadow) hash cracker.</i>
 	<br><br><br>
-  <a href="https://asciinema.org/a/Oij7WpNdmiW1G1Om2YUwLAND8" target="_blank"><img src="https://asciinema.org/a/Oij7WpNdmiW1G1Om2YUwLAND8.svg" /></a>
+  <a href="https://asciinema.org/a/413788" target="_blank"><img src="https://asciinema.org/a/413788.svg" /></a>
 </p>
 
 # Setup
