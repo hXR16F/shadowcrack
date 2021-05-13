@@ -14,7 +14,7 @@
 
 ## Installing
 ```
-sudo apt install dialog
+sudo apt install dialog openssl
 git clone https://github.com/hXR16F/shadowcrack.git
 cd shadowcrack
 pip install pythondialog
