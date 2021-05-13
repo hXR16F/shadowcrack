@@ -1,2 +1,0 @@
-pythondialog==3.5.1
-dialog==0.2.0
